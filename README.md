@@ -19,6 +19,8 @@ Runnning in the simulator
 1. Right click on your project and select Build Configuration => Set Active => Simulator Debug in the Bada IDE
 2. Build&Run
 
+IMPORTANT: If you are using SDK ver 2+ you need to set the build configuration on Target-Debug and then choose Run as 'Bada Emulator Application'. On newer version of the SDK the simulator-debug option is not available anymore.
+
 Running on a target device
 --------------------------
 
